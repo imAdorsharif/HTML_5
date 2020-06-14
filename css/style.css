@@ -1,0 +1,45 @@
+    .header {
+    	background-color: lime;
+    	min-height: 170px;
+    	text-align: center;
+
+    }
+    .wrapper{
+    	overflow: hidden;
+    	border: 2px solid navy;
+    	text-align: center;
+    }
+
+    .blog {
+    	background-color: pink ;
+    	min-height: 290px;
+    	width: 50%;
+    	float: left;
+    }
+    .contact {
+    	background-color: grey;
+    	min-height: 290px;
+    	width:35%;
+    	float: left;
+
+    }
+
+    .nav{
+    	background-color: red;
+    	min-height: 290px;
+        width:15%;
+    	float: left;
+    }
+
+    .footer {
+    	background-color: navy;
+    	color: orange;
+    	font-size : 50px;
+    	min-height: 100px;
+    	text-align: center;
+    }
+
+    .video {float:left;}
+    .map{float:right;}
+    .container{border:  5px solid red;
+    	overflow: hidden;}
